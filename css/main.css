@@ -87,3 +87,50 @@ body
 	background-color: #4a4a4a;
 	margin-top: 70px;
 }
+
+@media screen and (min-width: 650px) {
+
+	.nav
+	{
+		height: 119px;
+		width: 895px;
+	}
+
+	.logo
+	{
+		width: 365px;
+		height: 123px;
+	}
+
+	.welcome
+	{
+		width: 1807px;
+		height: 189px;
+	}
+
+	.promoImage
+	{
+		width: 1807px;
+		height: 189px;
+	}
+
+	.photo1
+	{
+		width: 261px;
+		height: 261px;
+	}
+
+	.photo2
+	{
+		width: 261px;
+		height: 261px;
+	}
+
+	.mainFooter
+	{
+		width: 1920px;
+		height: 77px;
+	}
+
+
+}
